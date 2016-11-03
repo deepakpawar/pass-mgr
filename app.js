@@ -33,7 +33,8 @@ function getAccount (accountName) {
 	return matchedAccount;
 }
 
- createAccount(
+// ----------------------------------------------------------------------
+createAccount(
  [{
  	name: 'facebook',
  	username: 'someemail@facebook.com',
